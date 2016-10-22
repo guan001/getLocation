@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GetLocation</string>
+    <string name="using_network">Using NetWork</string>
+    <string name="using_gps">Using GPS</string>
+</resources>
